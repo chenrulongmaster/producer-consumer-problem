@@ -1,4 +1,8 @@
 # Producer-Consumer-Problem sample
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 Java Concurrency programming - use producer-consumer-problem to improve performance.
 
 ![](https://github.com/chenrulongmaster/producer-consumer-problem/raw/master/doc/producer_consumer_prob.png)
